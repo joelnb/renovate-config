@@ -8,8 +8,10 @@
   "platform": "github",
   "includeForks": false,
   "repositories": [
+    "joelnb/dockerfiles",
     "joelnb/presentation-builder",
     "joelnb/renovate-config",
-    "joelnb/sofa"
+    "joelnb/sofa",
+    "joelnb/xenstore-go"
   ]
 }
