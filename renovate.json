@@ -9,6 +9,7 @@
   "includeForks": false,
   "repositories": [
     "joelnb/dockerfiles",
+    "joelnb/example-caddy-build-server",
     "joelnb/presentation-builder",
     "joelnb/renovate-config",
     "joelnb/sofa",
