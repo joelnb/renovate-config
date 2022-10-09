@@ -2,7 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "assignees": ["joelnb"],
   "branchPrefix": "renovate/",
-  "dryRun": false,
   "username": "renovate-bot",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "onboarding": true,
@@ -11,5 +10,5 @@
   "repositories": [
     "joelnb/presentation-builder",
     "joelnb/renovate-config",
-  ],
+  ]
 }
