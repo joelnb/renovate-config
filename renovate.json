@@ -9,6 +9,6 @@
   "includeForks": false,
   "repositories": [
     "joelnb/presentation-builder",
-    "joelnb/renovate-config",
+    "joelnb/renovate-config"
   ]
 }
