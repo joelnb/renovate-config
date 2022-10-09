@@ -1,6 +1,10 @@
 name: Renovate
 
 on:
+  push:
+    branches:
+      - main
+      - master
   schedule:
     - cron: '*/15 * * * *'
 
