@@ -11,6 +11,7 @@
     "joelnb/ansible-msmtp",
     "joelnb/dockerfiles",
     "joelnb/example-caddy-build-server",
+    "joelnb/flux-config",
     "joelnb/presentation-builder",
     "joelnb/renovate-config",
     "joelnb/sofa",
