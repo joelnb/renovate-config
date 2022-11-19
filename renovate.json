@@ -9,7 +9,6 @@
   "includeForks": false,
   "repositories": [
     "joelnb/ansible-msmtp",
-    "joelnb/caddy-ansible",
     "joelnb/dockerfiles",
     "joelnb/example-caddy-build-server",
     "joelnb/flux-config",
