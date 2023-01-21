@@ -3,7 +3,7 @@
   "extends": ["config:base"],
   "assignees": ["joelnb"],
   "branchPrefix": "renovate/",
-  "username": "renovate-bot",
+  "username": "joelnb-bot",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "onboarding": true,
   "platform": "github",
