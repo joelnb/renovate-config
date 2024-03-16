@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
       - name: Renovate
-        uses: renovatebot/github-action@f9c81dddc9b589e4e6ae0326d1e36f6bc415d230 # v39.2.4
+        uses: renovatebot/github-action@89bd050bafa5a15de5d9383e3129edf210422004 # v40.1.5
         env:
           LOG_LEVEL: debug
         with:
