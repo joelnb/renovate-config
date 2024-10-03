@@ -1,0 +1,15 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["default.json"],
+  "repositories": [
+    "joelnb/ansible-msmtp",
+    "joelnb/dockerfiles",
+    "joelnb/example-caddy-build-server",
+    "joelnb/flux-config",
+    "joelnb/presentation-builder",
+    "joelnb/renovate-config",
+    "joelnb/sofa",
+    "joelnb/win-pyxs",
+    "joelnb/xenstore-go"
+  ]
+}
