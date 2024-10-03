@@ -1,0 +1,22 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:base"],
+  "assignees": ["joelnb"],
+  "branchPrefix": "renovate/",
+  "username": "joelnb-bot",
+  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
+  "onboarding": true,
+  "platform": "github",
+  "forkProcessing": "disabled",
+  "repositories": [
+    "joelnb/ansible-msmtp",
+    "joelnb/dockerfiles",
+    "joelnb/example-caddy-build-server",
+    "joelnb/flux-config",
+    "joelnb/presentation-builder",
+    "joelnb/renovate-config",
+    "joelnb/sofa",
+    "joelnb/win-pyxs",
+    "joelnb/xenstore-go"
+  ]
+}
